@@ -1,1 +1,1 @@
-# Image-classification-using-CNN-for-CIFER10-dataset
+# CNN_Image_classification_CIFER10_dataset
