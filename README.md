@@ -1,1 +1,1 @@
-# CNN_Image_classification_CIFER10_dataset
+# Image classification using Convolutional Neural Network for CIFER10 dataset
